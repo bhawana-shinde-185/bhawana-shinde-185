@@ -1,0 +1,3 @@
+quantity =50
+txt = "item quantity is 50"
+print(txt.format(price))
